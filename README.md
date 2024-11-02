@@ -2,10 +2,6 @@
 
 This **<a href="https://jvcodes.com/responsive-login-and-registration-form-with-social-media-login-option/">Responsive Login and Registration Form with Social Media Login Option</a>** offers a user-friendly design that adapts to any device, enhancing accessibility for mobile, tablet, and desktop users. The form includes options for social media login, making it convenient for users to sign up or log in using their existing social accounts. Built with HTML, CSS, and JavaScript, this form is ready for easy integration into any project without any copyright concerns.
 
-## GitHub Source
-
-Access the source code here: [GitHub Repository](#)
-
 ## Features
 
 - **Easy to Customize**: Quickly modify layout, colors, fonts, and social media options without extensive coding knowledge.
